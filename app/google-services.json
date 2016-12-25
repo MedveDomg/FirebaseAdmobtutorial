@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295843314254",
+    "firebase_url": "https://fir-admobtutorial.firebaseio.com",
+    "project_id": "fir-admobtutorial",
+    "storage_bucket": "fir-admobtutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295843314254:android:cd6d3f713dd25dde",
+        "android_client_info": {
+          "package_name": "omg.medved.firebaseadmobtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295843314254-cnl03t39hq25tbpbejmlutuf4j4lv0lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "omg.medved.firebaseadmobtutorial",
+            "certificate_hash": "D7624A593CFCD4DD148D59103A10F9314A8BFAB5"
+          }
+        },
+        {
+          "client_id": "295843314254-3k8ptsohd2ke19ei9qm7og3me808l05f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbfHWxteOsLE8jtD4TOum2yqL4r83cfpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295843314254-3k8ptsohd2ke19ei9qm7og3me808l05f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
